@@ -1,0 +1,2216 @@
+[
+  {
+    "page_id": 1,
+    "name": "The Kashmir Mercantile Cooperative Bank Ltd Sopore",
+    "state": "JAMMU AND KASHMIR",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 1,
+    "name": "The Citizen Cooperative Bank Ltd Jammu",
+    "state": "JAMMU AND KASHMIR",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 1,
+    "name": "Devika Urban Coop. Bank Ltd. Udhampur",
+    "state": "JAMMU AND KASHMIR",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 1,
+    "name": "Urban Cooperative Bank ltd Anantnag",
+    "state": "JAMMU AND KASHMIR",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 2,
+    "name": "The Parwanoo Urban Cooperative Bank",
+    "state": "HIMACHAL PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 2,
+    "name": "The Baghat Urban Cooperative Bank",
+    "state": "HIMACHAL PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 2,
+    "name": "The Shimla Urban cooperative bank Ltd Shimla1 HP",
+    "state": "HIMACHAL PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 2,
+    "name": "The Mandi Urban Cooperative Bank Ltd. Mandi",
+    "state": "HIMACHAL PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 2,
+    "name": "The Chamba urban Cooperative Bank Ltd Chamba PO Chamba Tehsil and District Chamba HP",
+    "state": "HIMACHAL PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "HINDU COOPERATIVE BANK LIMITED",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The Tapa Primary Cooperative Agricultural Development Bank Limited Tapa",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The P.A.D.B Banala",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The Muktsar Cooperative Urban Bank Ltd Shri Muktsar Sahib",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The imperial urban cooperative bank ltd",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The Amritsar Urban Cooperative Bank Ltd",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The Nakodar Hindu Urban Co -op Bank Ltd.",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The Citizen Urban Coop. Bank ltd. Jalandhar",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 3,
+    "name": "The Nakodar Primary Cooperative Agricultural Development Bank ltd. Nakodar",
+    "state": "PUNJAB",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 4,
+    "name": "The Chandigarh Urban Cooperative Bank Limited",
+    "state": "CHANDIGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 4,
+    "name": "THE CHANDIGARH MAHILA URBAN COOPERATIVE BANK LIMITED",
+    "state": "CHANDIGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 5,
+    "name": "The Kurmanchal Nagar Sahkari Bank Ltd",
+    "state": "UTTARAKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 5,
+    "name": "UTTRAKHAND COOPERATIVE BANK LTD",
+    "state": "UTTARAKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 5,
+    "name": "URBAN CO-OPERATIVE BANK LTD.,DEHRADUN",
+    "state": "UTTARAKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 5,
+    "name": "kashipur urban co-operative bank ltd",
+    "state": "UTTARAKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 5,
+    "name": "ALOMRA URBAN COOPERATIVE BANK LTD",
+    "state": "UTTARAKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 5,
+    "name": "Urban Cooperative Bank New Tehri",
+    "state": "UTTARAKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 6,
+    "name": "The Karan Urban Coop. Bank Ltd. Karnal.",
+    "state": "HARYANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 6,
+    "name": "The Ambala Urban Cooperative Bank Ltd. Ambala",
+    "state": "HARYANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 6,
+    "name": "The Sonipat Urban Bank",
+    "state": "HARYANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 6,
+    "name": "THE PANCHKULA URBAN COOPERATIVE BANK LTD PANCHKULA",
+    "state": "HARYANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 6,
+    "name": "THE KURUKSHETRA URBAN COOPERATIVE BANK LTD KURUKSHETRA",
+    "state": "HARYANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 6,
+    "name": "THE ROHTAK MAHILA URBAN COOP. BANK LTD. ROHTAK",
+    "state": "HARYANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 6,
+    "name": "Hisar Urban Cooperative Bank Ltd. Hisar",
+    "state": "HARYANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "INNOVATIVE CO-OPERAIVE URBAN BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "DELHI NAGRIK SEHKARI BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "PARISHADCO-OPEARATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "JAI LAXMI COOPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "THE CITIZEN CO-OPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "THE VAISH CO-OPERATIVE NEW BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "RAMGARHIA CO-OPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "THE JANTA CO-OPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "The Khatri Co-operative Urban Bank Ltd.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "INDRAPRASTHA SEHKARI BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "JAMIA CO-OPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "KESHAV SEHKARI BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "THE KANGRA CO-OPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "Jain Co-Operative Bank Ltd.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "NATIONAL URBAN CO-OPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "THE DELHI STATE CO-OPERATIVE BANK LTD.",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 7,
+    "name": "THE VAISH CO-OPERATIVE ADARSH BANK LTD",
+    "state": "DELHI",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "ALWAR URBAN COOPERATIVE BANK",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE UDAIPUR MAHILA SAMRIDHI URBAN CO- OPERATIVE BANK LTD",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE UDAIPUR MAHILA URBAN COOPERATIVE BANK LTD",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE RAILWAY EMPLOYEE URBAN COOPERATIVE BANK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "STERLING URBAN COOPERATIVE BANK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE RAJPUTAN MAHILA URBAN COOP BANK LTD",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "intergral urban cooprative bank ltd",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "JALORE NAGRIK SAHAKARI BANK LIMITED",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE UDAIPUR URBAN CO-OPERATIVE BANK LTD, UDAIPUR",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "CHITTORGARH URBAN CO-OPERATIVE BNAK LTD., CHITTORGARH",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "BHILWARA MAHILA URBAN COOPERATIVE BANK LTD BHILWARA",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "BHILWARA URBAN COOPERATIVE BANK LTD BHILWARA",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "VAISHALI URBAN COOPERATIVE BANK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "JAIPUR JILA SAHAKRI BHOMI VIKAS BANK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE JAIPUR CENTRAL COOPERATIVE BAMK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "MALVIYA URBAN COOPERATIVE BAMK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE RAJASTHA URBAN COOPERATIVE BANK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE EAILWAY EMPLOYEES COOPERATIVE BAMK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "THE RAJLAXMI MAHILA URBAN COOPERATIVE BAMK LTD.",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "SIKAR URBAN COPERATIVEBANK LTD SIKAR",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "URBAN COOPERATIVE BANK LTD AJMER",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "Pali Urban Co-Operative Bank Ltd",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "BEAWAR URBAN COOPERATIVE BANK LTD",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "NAGAUR URBAN COOPERATIVE BANK LIMITED",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 8,
+    "name": "Balotra Urban co operative Ltd, Balotra",
+    "state": "RAJASTHAN",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Bhadohi Urban Co - operative Bank Ltd",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "GOMTI NAGARIYA SAHAKARI BANK",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "URBAN COOPERATIVE BANK LTD SITAPUR",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Rani Laxmibai Urban Cooperative Bank Ltd. Jhansi",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "BANARAS MERCHANTILR CO-OPERETIVE BANK LTD , VARANASI",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "URBAN COOPERATIVE BANK LTD., MAINPURI",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "united india cooperative bank ltd. nagina",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Etawah urban co-operative bank ltd.",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Banda Urban Cooperative Bank Ltd. Banda",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Purvanchal Co-operative Bank Ltd Ghazipur",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "510 army base work shop credit co-operativ private bank ltd meerut cant",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "SONBHADRA NAGAR SAHKARI BANK LTD",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "NOIDA COMMERCIAL COOPERATIVE BANK LIMITED GHAZIABAD",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Nobel Cooperative Bank Ltd. Noida",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "URBAN COOPERATIVE BANK LTD. BASTI",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "The New Urban Cooperative Bank Ltd Agra",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "NATIONAL URBAN COOPERATIVE BANK LTD BAHRAICH",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Citizen Cooperative Bank Ltd. Noida",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "IMPERIAL URBAN COOPERATIVE BANK LIMITED",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "NAGAR SAHKARI BANK LTD. GORAKHPUR",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "Dayalbag Mahila Cooperative Bank Ltd Agra",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "INDIAN MERCANTILE COOPERATIVE BANK LIMITED",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "LUCKNOW URBAN CO-OPERATIVE BANK LTD",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "UP Civil Secretriat Primary Co-operative Bank Limited, Lucknow",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 9,
+    "name": "The Radhasoami Urban Cooperative Bank Ltd Agra",
+    "state": "UTTAR PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 10,
+    "name": "THE BIHAR AWAMI COOPERATIVE BANK LTD",
+    "state": "BIHAR",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 11,
+    "name": "Final Test",
+    "state": "SIKKIM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 11,
+    "name": "Citizens Urban Cooperative Bank Ltd.",
+    "state": "SIKKIM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 17,
+    "name": "JOWAI COOPERATIVE URBAN BANK LTD",
+    "state": "MEGHALAYA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 17,
+    "name": "Tura Urban Cooperative Bank Ltd.",
+    "state": "MEGHALAYA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 17,
+    "name": "SHILLONG COOPERATIVE URBAN BANK LTD",
+    "state": "MEGHALAYA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "INDUSTRIAL COOPERATIVE BANK LTD.",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "NAGARIK SAMABAY BANK LTD.",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "Kanaklata mahila urban cooperative bank ltd",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "THE CO-OPERATIVE CITY BANK LTD.",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "Nalbari Urban Co-operative Bank Ltd.",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "Mangaldoi Nagar Samabai Bank Ltd.",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "Mahabhairab Cooperative Urban Bank",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 18,
+    "name": "ASCARD Bank",
+    "state": "ASSAM",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "THE SURI FRIENDS UNION COOPERATIVE BANK LTD.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "ROUTHA UNION COOPERATIVE BANK LTD.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "The Panihati Co-operative bank Ltd.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "Khardah Co-operative Bank Ltd",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "The Nabapally Co-operative Bank Ltd",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "Bhatpara Naihati Co-operative Bank Ltd",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "Samata Co-operative Development Bank Ltd",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "CONTAI CO-OPERATIVE BANK LTD.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "SREE CHAITANYA COOERATIVE BANK LTD",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "KALNA TOWN CREDIT COOPERATIVE BANK LTD",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "KHATRA PEOPLE&#039;S CO-OPERATIVE BANK LIMITED.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "THE BANKURA TOWN CO-OPERATIVE BANK LIMITED",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "THE BISHNUPUR TOWN COOPERATIVE BANK LTD",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "The Baidyabati Sheoraphuli Cooperative Bank Limited",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "The Hooghly Co-operative Credit Bank Ltd.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "The Uttarpara Co-operative Bank Ltd",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "Nabagram Peoples Co-operative Credit Bank Ltd.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "KONNAGAR SAMABAYA BANK LTD",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "Malda Co-operative Urban Credit Society Ltd.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "THE KRISHNAGAR CITY CO-OPERATIVE BANK LTD",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "The Nabadwip Cooperative Credit Bank Ltd",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "Ranaghat People&#039;s Cooperative Bank Ltd.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "THE UNION COOPERATIVE BANK LTD.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "THE JOYNAGAR MAJILPUR PEOPLES COOPERATIVE BANK LTD",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 19,
+    "name": "THE BORAL UNION COOPERATIVE BANK LTD.",
+    "state": "WEST BENGAL",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 20,
+    "name": "JAMSHEDPUR URBAN COOPERATIVE BANK LTD",
+    "state": "JHARKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 20,
+    "name": "The Koylanchal Urban Cooperative Bank Ltd.",
+    "state": "JHARKHAND",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "Urban Cooperative Bank",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "Jeypore Cooperative Urban Bank",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "The Urban Cooperative Bank ltd.",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "BHADRAK COOP. URBAN BANK LTD.",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "URBAN COOPRATIVE BANK LTD ROURKELA",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "Puri CARD Bank",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "Puri Urban Cooperative Bank",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "THE KENDRAPARA URBAN COOPERATIVE BANK LTD.",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "The berhampur urban cooperative Bank Ltd.",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 21,
+    "name": "The Cooperative Urban Bank Ltd, Paralakhemundi",
+    "state": "ODISHA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "bhilai nagrik sahakari bank maryadit bhilai nagar",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "Pragti Mahila nagarik shakri bank mryadit bhilai durg",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "NAGARIK SAHAKARI BANK MARYADIT DURG",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "MAHILA NAGRIK SAHKARI BANK MARYADIT MAHASAMUND",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "BILASPUR NAGRIK SAHKARI BANK MARYADIT BILASPUR",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "Raigarh Nagrik Sahakari Bank Maryadit Raigarh",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "Commercial Co-operative Bank Limited, Raipur",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "Laxmi Mahila Nagrik Sahakari Bank Limited, Raipur",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "Citizen Cooperative Bank Limited Phulchowk, Raipur",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "The Raipur Urban Marketing Co-operative Bank, Raipur",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "Renuka nagarik sahkari bank maryaadit ambikapur",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 22,
+    "name": "Nagrik sahkari bank maryadit jagdalpur",
+    "state": "CHHATTISGARH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "vyavsayik evam audhyogik sehkari bank Ltd. Morena",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "JILA SAHKARI KENDRIYA BANK MARYADIT GWALIOR",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "Sardar Singh Nagarik Sahakari Bank Limited Tikamgarh",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "BHIND NAGRIK SAHKARI BANK MARYADIT BHIND",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "JABALPUR MAHILA NAGRIK SAHKARI BANK MARYA JABALPUR",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "Mahila nagarik sahakari bank khargone",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "khargone nagarik sahakari bank khargone",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "sanawad nagarik bank sanawad",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "PARISAMAPAN JILA SAHKARI KRASHI AUR GRAHMIN VIKAS BANK MARIYADIT BETUL",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "PARISAMAPAN JILA SAHKARI KRASHI AUR GRAHMIN VIKAS BANK MARIYADIT HOSHANGABAD",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "PARISAMAPAN SUVIDHA MAHILA NAGRIK SAHKARI BANK MARIYAIT NARMADAPURAM",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "Jila Sehkari Kendriya Bank Miryadit Panna",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "NAGRIK SAHAKARI BANK MARIYADIT SHIVPURI",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "Jila Sahkari Krishi Avam Gramin Vikash Bank Raisen",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "PARISAMAPAN SUVIDHA MAHILA NAGRIK SAHKARI BANK MARIYADIT HOSHANGABAD",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "SARVODAY MAHILA COOPERATIVE BANK LIMITED BURHANPUR",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "CITIZEN COOPERATIVE BANK LIMITED BURHANPUR",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "GUNA NAGRIK SAHKARI BANK MARYADIT GUNA",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "MAA SHARDA MAHILA NAGRIK SAHKARI BANK MARYADIT MAIHER(84)",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "SHRI BALAJI URBAN COPERATIVE BANK LIMITED SATNA",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "KRISHANGANJ NAGRIK BANK MARYADIT POHRI",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "JILA SAHKARI KENDRIY BANK MARYADIT SATNA",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "Nagrik Sahkari Bank Maryadit, Sagar",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "Shajapur Nagrik Sahkari Bank Limited Shajapur",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 23,
+    "name": "Rajrajeshwari Mahila Nagrik Sahkari Bank Limited Shajapur",
+    "state": "MADHYA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE BAHDARPUR ARBAN CO OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE KAIRA DISTRICT CENTRAL CO-OPRATIVE BANK LTD NADIAD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE JANATA CO OP BANK LTD. GODHRA",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE SAURASHTRA CO OPERATIVE BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "Gujarat Mercantile co op Bank Ltd",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE BHAGYODAYA CO OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "AMARNATH CO OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE TALOD NAGRIK SAHAKARI BANK LIMITED",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "PROGRESSIVE MERCANTILE CO OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "Gujarat Ambuja Cooperative Bank Ltd.",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE KARNAVATI CO OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "Colour Merchants&#039; Co-operative Bank Ltd",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "MANINAGAR CO OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE BAPUNAGAR MAHILA CO OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE TALOD JANTA SAHAKARI BANK LIMITED",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE SARANGPUR CO.OP BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "NIDHI CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE VIJAY CO OPERATIVE BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE UNITED CO-OPERATIVE BANK LIMITED",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE PRANTIJ NAGRIK SAHAKARI BANK LIMITED",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE AHMEDABAD MERCANTILE CO-OPERATIVE BANK LTD",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE UNION CO-OPERATIVE BANK LIMITED",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "THE NARODA NAGRIK CO OPERATIVE BANK LIMITED",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 24,
+    "name": "Sardar Vallabhbhai Sahakari Bank Limited",
+    "state": "GUJARAT",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "THE CKP COOPERATIVE BANK",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "AKHIL MAHARASHTRA KUNBI SAHAKARI PATAPETHI MARY",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "Mahendra Mitramandal Nagri Sahkari Patsanstha Marya. Malegaon",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "KOLHAPUR DISTRLCT CENTRAL CO OP BANK LIMITED KOLHAPUR",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "MUMBAI DISTRICT CENTRAL CO OP BANK LTD",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "THE AGRASEN NAGARI SAHAKARI BANK LTD., AKOLA",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "Navi Mumbai Co-operative Bank Ltd.",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "Nagrik Sahakari Co-op Bank Ltd",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "SIDDHESHWAR URBAN COOPERAVITE BANK LTD.SILLOD",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "The Pen Cooperative Urban Bank Ltd Pen",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "The Panvel Cooperative Urban Bank Ltd Panvel",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "Jalgaon Janata Sahakari Bank Ltd. Jalgaon",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "Shri Mahavir Sahakari.Bank Ltd. Jalgaon",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "The Jalgaon Peoples Co-op.Bank Ltd. Jalgaon",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "Godavari Laxmi Co-op.Bank LTD. Jalgaon",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "SHARAD SAHKARI BANK LTD MANCHAR",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "PUNE DISTRICT CENTRAL CO OPERTIVE BANK LTD",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "Umiya Urban Co-operative Bank Maryadit",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "WARDHAMAN URBAN CO-OPERATIVE BANK LTD",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "DR. BABASAHEB AMBEDKAR URBAN COOPERATIVE BANK LTD. NAGPUR",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "The Nandura Urban Co-operative Bank Li NANDURA",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "PEOPLES COOPERATIVE BANK LTD DEULGAORAJA",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "NIRMAL URBAN CO OP BANK LTD",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "JANSEWA URBAN CO-OPERATIVE BANK LTD NAGPUR",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 27,
+    "name": "GANDHIBAG SAHAKARI BANK LTD., NAGPUR",
+    "state": "MAHARASHTRA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "Proddatur Coop. Town Bank Ltd.,",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "Srikalahasti Cooperative Town Bank Ltd., Srikalahasti",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "RAJAMPETA COOP.TOWN BANK",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Madanapalle Cooperative Town Bank Ltd.",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "THE ELURU COOPERATIVE URBAN BANK LTD",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Srikakulam Cooperative Urban Bank ltd Srikakulam",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "Tirupati Coop.Bank Ltd., (ECCS)Tirupati",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Masulipatnam Cooperative Urban Bank Ltd.",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Gooty Cooperative Town Bank Ltd., Gooty",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Uravakonda Cooperative Town Bank Ltd., Uravakonda",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "Mandapeta Cooperative Town Bank",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Anantapur Cooperative Urban Bank Ltd., Ananthapuramu",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "Amalapuram Cooperative Town Bank",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Tadipatri Cooperative Town Bank Ltd., Tadipatri",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "THE KAKINADA COOPERATIVE TOWN BANK LTD NO C 750, KAKINADA",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "SREE COOPERATIVE URBAN BANK LTD NO.C 911, KAKINADA",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Repalle Cooperative Urban Bank Ltd., Repalle",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Bapatla Cooperative Urban Bank Ltd., Bapatla",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "THE GUDIVADA COOPERATIVE URBAN BANK",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Durga Cooperative Urban Bank Ltd, Vijayawada",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Swasakthi Mercantile Cooperative Urban Bank Ltd., Vijayawada",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Kuppam Coop. Town Bank ltd., Kuppam",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Chittoor Coop.Town Bank Ltd., Chittoor",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "LIC Employees Cooperative Bank Ltd., Machilipatnam",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 28,
+    "name": "The Gandhi Cooperative Urban Bank Ltd., Vijayawada",
+    "state": "ANDHRA PRADESH",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Hubli- Dharwad Urban Coop Bank Ltd Dharwad",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "GOKAK URBAN COOPERATIVE BANK",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Hanamasagara Urban Co operative Bank Ltd., Hanamasagara",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Sri Gavisiddeshwara Urban Cooperative Bank Niyamitha., Koppal",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "SRI SUDHA COOPERATIVE BANK LTD",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Kushtagi Pattana Sahakara Bank Niyamith., Kushtagi",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Sri Ramanagara Pattana Sahakara Bank Niyamith., Sriramanagara",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "THE BANGALORE CITY COOPERATIVE BANK LTD",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "THE GRAIN MERCHETS COOPERATIVE BANK LTD",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Vishwakalyan Coop Bank Ltd Hubli",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Hubli Muslim Coop Bank Ltd",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "SRI BASAVESHWAR COOPERATIVE URBAN BANK LTD KALABURGI",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "ABHIRVURDHI MAHILA COOPERATIVE URBAN BANK KALABURGI",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "SRI KANNIKAPARAMESHWARI CO-OPERATIVE BANK LIMITED, HASSANA",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "THE ARASIKERE URBAN COOPERATIVE BANK LIMITED ARASIKERE",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "THE CITYCOOPERATIVE BANK LIMITED, DEVRAJ ARAS MARKET, HASSAN",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Chartered Co-operative Bank Ltd., No.66, 24th Main, 5th Cross, H.S.R.Layout, Sarjapur Road, Bengaluru-34.",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "SRI VASAVAMBA CO-OPERATIVE BANK LIMITED,HOLENARASIPURA",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "Belur Urban Co Operative Bank Ltd Belur",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "The Laxmi Urban Co-operative Bank Ltd., Gajendragad",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "GULBARGA URBAN COOP BANK LTD KALABURAGI",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "SREE BHYRAWESHWARA SAHAKARA BANK NIYAMITHA",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "SHRI VEERBHADRESHWAR COOP BANK LTD CHINCHOLI",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "JYOTIRLINGA URBAN BANK JALAGERI",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 29,
+    "name": "DISTRICT GOVT EMPLOYEES CO OPERATIVE BANK VIJAYAPUR",
+    "state": "KARNATAKA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 30,
+    "name": "THE MADGAUM URBAN COOPERATIVE BANK LTD",
+    "state": "GOA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 30,
+    "name": "The Bicholim Urban Cooperative Bank Ltd",
+    "state": "GOA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 30,
+    "name": "The Women Cooperative Bank Ltd",
+    "state": "GOA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 30,
+    "name": "The Goa Urban Cooperative Bank Ltd",
+    "state": "GOA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "CO OPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "THE SULTHAN BATHERY COOPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "Thodupuzha Urban Co operative Bank",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "MALA BLOCK TOWN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "The Payyanur Cooperative Town Bank Ltd",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "The Pazhayangadi Urban Co operative Bank",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "THIRUVALLA URBAN CO-OPERATIVE BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "THIRUVALLA EAST CO-OPERATIVE BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "BALUSSERY COOPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "PAYYOLI COOPERATIVE URBAN BANK LTD",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "KUTTIADI COOPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "PALA URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "MEENACHIL EAST URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "VATAKARA CO OPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "KOTTAYAM COOPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "NADAPURAM COOPERATIVE URBAN BANK LTD NO.D.2648.. D.",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "Kannur Co Op Urban Bank Ltd",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "KASARAGOD CO OPERATIVE TOWN BANK LTD",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "TALIPARAMBA CO OPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "KATTAPPANA URBAN CO OPERATIVE BANK LTD",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "THE PALGHAT COOPERATIVE URBAN BANK LTD",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "CHERPALCHERI COOPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "OTTAPALAM CO.OPERATIVE URBAN BANK",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "LIC of India Staff Coopertive Urban Bank Ltd",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 32,
+    "name": "KARAMANA CO-OPERATIVE URBAN BANK LTD.NO.1761",
+    "state": "KERALA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "No.29 Tirumangalam Cooperative Urban Bank",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "Ambasamudram urban cooperative bank",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "TIRUNELVELI JUNCTION URBAN COOPERATIVE",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "PALYAMKOTTAI URBAN COOPERATIVE BANK",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "PEOPLES URBAN COOPERATIVE BANK",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "The Coonoor Urban Co-operative Bank",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "The Udhagamandalam Co-operative Urban Bank Ltd.,",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "Cordite Factory Cooperative Bank",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "RAMANATHAPURAM COOPERATIVE URBAN BANK",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "Paramakudi Co-operative Urban Bank Ltd.,",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "ABIRAMAM CO-OP URBAN BANK LTD",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "Q1102.KAMUTHI CO-OPERATIVE URBAN BANK LTD",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "UTHAMAPALAYAM URBAN BANK LTD",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "PERIYAKULAM URBAN BANK LTD",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "Karaikudi Co-operative Town Bank",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "K4084UPPILIPALAYAM UCCS",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "KVI1 MANAPPARAI PALMGUR PRODUCEER'S CO-OPERATIVE SOCIETY",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "THE KARUR TOWN COOP BANK LTD., NO.924",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "R.37 KULITHALAI COOPERATIVE URBAN BANK LTD",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "SOURASHTRA URBAN COOPERATIVE BANK",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "SHOLAVANDHAN URBAN COOPERATIVE BANK",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "TIRUVALLUR COOPERATIVE URBAN BANK",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "C 4712 ARNI UCB",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "Velur Cooperative Urban Bank Ltd.,",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 33,
+    "name": "Komarapalayam Cooperative Urban Bank Ltd.,",
+    "state": "TAMIL NADU",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 34,
+    "name": "The Pondicherry Co-operative Urban Bank Ltd.,",
+    "state": "PUDUCHERRY",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Sanghamitra Cooperative Urban Bank Ltd., Nalgonda",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Nalgonda District Cooperative Central Bank Ltd., Nalgonda",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Universal Coop. Urban Bank Ltd., Mancherial",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Bellampally Coop. Urban Bank Ltd.,Bellampally",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "SIRCILLA COOPERETIVE URBAN BANK LTD SIRCILLA",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Kanyaka Parameshwari Mutually Aided Coop Urban Bank Ltd.,",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Palamoor Cooperative Urban Bank Ltd., Mahabubnagar",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Navabharath Cooperative Urban Bank",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Devi Gayatri CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Praja CUB Ltd",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Jagruthi Cooperative Urban Bank Ltd",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Kranthi CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Sri Gayatri CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Adarsh CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Kakatiya CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Sri Laxmi Mahila CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Vasundara CUB Ltd",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "The Karimnagar Co-Operative Urban Bank Ltd., Karimnagar",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Vijaya Mahila CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Aryan CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "First City CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Megacity CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Manikanta CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Mother Theresa CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 36,
+    "name": "Sravya CUB",
+    "state": "TELANGANA",
+    "category": "Urban Co-operative Banks"
+  },
+  {
+    "page_id": 38,
+    "name": "Cooperative Society 3",
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "category": "Urban Co-operative Banks"
+  }
+]

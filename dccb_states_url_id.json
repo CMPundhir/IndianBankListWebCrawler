@@ -1,0 +1,97 @@
+[
+  {
+    "state": "ANDHRA PRADESH",
+    "state_id": 28,
+    "state_url": "/en/home/dccb-list-reports/state/28"
+  },
+  {
+    "state": "BIHAR",
+    "state_id": 10,
+    "state_url": "/en/home/dccb-list-reports/state/10"
+  },
+  {
+    "state": "CHHATTISGARH",
+    "state_id": 22,
+    "state_url": "/en/home/dccb-list-reports/state/22"
+  },
+  {
+    "state": "GUJARAT",
+    "state_id": 24,
+    "state_url": "/en/home/dccb-list-reports/state/24"
+  },
+  {
+    "state": "HARYANA",
+    "state_id": 6,
+    "state_url": "/en/home/dccb-list-reports/state/6"
+  },
+  {
+    "state": "HIMACHAL PRADESH",
+    "state_id": 2,
+    "state_url": "/en/home/dccb-list-reports/state/2"
+  },
+  {
+    "state": "JAMMU AND KASHMIR",
+    "state_id": 1,
+    "state_url": "/en/home/dccb-list-reports/state/1"
+  },
+  {
+    "state": "JHARKHAND",
+    "state_id": 20,
+    "state_url": "/en/home/dccb-list-reports/state/20"
+  },
+  {
+    "state": "KARNATAKA",
+    "state_id": 29,
+    "state_url": "/en/home/dccb-list-reports/state/29"
+  },
+  {
+    "state": "MADHYA PRADESH",
+    "state_id": 23,
+    "state_url": "/en/home/dccb-list-reports/state/23"
+  },
+  {
+    "state": "MAHARASHTRA",
+    "state_id": 27,
+    "state_url": "/en/home/dccb-list-reports/state/27"
+  },
+  {
+    "state": "ODISHA",
+    "state_id": 21,
+    "state_url": "/en/home/dccb-list-reports/state/21"
+  },
+  {
+    "state": "PUNJAB",
+    "state_id": 3,
+    "state_url": "/en/home/dccb-list-reports/state/3"
+  },
+  {
+    "state": "RAJASTHAN",
+    "state_id": 8,
+    "state_url": "/en/home/dccb-list-reports/state/8"
+  },
+  {
+    "state": "TAMIL NADU",
+    "state_id": 33,
+    "state_url": "/en/home/dccb-list-reports/state/33"
+  },
+  {
+    "state": "TELANGANA",
+    "state_id": 36,
+    "state_url": "/en/home/dccb-list-reports/state/36"
+  },
+  {
+    "state": "UTTAR PRADESH",
+    "state_id": 9,
+    "state_url": "/en/home/dccb-list-reports/state/9"
+  },
+  {
+    "state": "UTTARAKHAND",
+    "state_id": 5,
+    "state_url": "/en/home/dccb-list-reports/state/5"
+  },
+  {
+    "state": "WEST BENGAL",
+    "state_id": 19,
+    "state_url": "/en/home/dccb-list-reports/state/19"
+  }
+]

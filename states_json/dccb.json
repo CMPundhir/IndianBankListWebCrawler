@@ -1,1172 +1,1317 @@
 [
   {
-    "name": "BARAMULLA CENTRAL CO-OPERATIVE BANK LTD., BARAMULLA",
-    "state": "Andhra Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE ANANTNAG CENTRAL CO-OPERATIVE BANK LTD., ANANTNAG",
-    "state": "Andhra Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JAMMU CENTRAL CO-OPERATIVE BANK LTD., JAMMU",
-    "state": "Andhra Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JOGINDRA CENTRAL CO-OPERATIVE BANK LTD., SOLAN",
-    "state": "Arunachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KANGRA CENTRAL CO-OPERATIVE BANK LTD., KANGRA",
-    "state": "Arunachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE AMRITSAR CENTRAL CO-OPERATIVE BANK LTD., AMRITSAR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BHATINDA CENTRAL CO-OPERATIVE BANK LTD., BHATINDA",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE FARIDKOT CENTRAL CO-OPERATIVE BANK LTD., FARIDKOT",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE FATEHGARH SAHIB CENTRAL CO-OPERATIVE BANK LTD., SIRHIND",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE FAZILKA CENTRAL CO-OPERATIVE BANK LTD., FAZILKA",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE FEROZEPUR CENTRAL CO-OPERATIVE BANK LTD., FEROZEPUR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE GURDASPUR CENTRAL CO-OPERATIVE BANK LTD., GURDASPUR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE HOSHIARPUR CENTRAL CO-OPERATIVE BANK LTD., HOSHIARPUR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JALANDHAR CENTRAL CO-OPERATIVE BANK LTD., JALANDHAR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KAPURTHALA CENTRAL CO-OPERATIVE BANK LTD., KAPURTHALA",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE LUDHIANA CENTRAL CO-OPERATIVE BANK LTD., LUDHIANA",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MANSA CENTRAL CO-OPERATIVE BANK LTD., MANSA",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MOGA CENTRAL CO-OPERATIVE BANK LTD., MOGA",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MUKTSAR CENTRAL CO-OPERATIVE BANK LTD., MUKTSAR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE NAWANSHAHR CENTRAL CO-OPERATIVE BANK LTD., NAWANSHAHR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE PATIALA CENTRAL CO-OPERATIVE BANK LTD., PATIALA",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE ROPAR CENTRAL CO-OPERATIVE BANK LTD., ROPAR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SANGRUR CENTRAL CO-OPERATIVE BANK LTD., SANGRUR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SAS NAGAR CENTRAL CO-OP. BANK LTD., SAS NAGAR",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE TARAN TARAN CENTRAL CO-OPERATIVE BANK LTD., TARAN TARAN",
-    "state": "Assam",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "ALMORA ZILLA SAHAKARI BANK LTD., ALMORA",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "CHAMOLI ZILLA SAHAKARI BANK LTD., CHAMOLI",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DISTRICT COOPERATIVE BANK LTD., DEHRADUN",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "NAINITAL DISTRICT CO-OPERATIVE BANK LTD., HALDWANI",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "PITHORAGARH ZILA SAHAKARI BANK LTD., PITHORAGARH",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "TEHRI GARHWAL ZILA SAHKARI BANK LTD., TEHRI",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE UTTARKASHI ZILA SAHKARI BANK LTD., UTTARKASHI",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "UDHAMSINGHNAGAR DISTRICT COOPERATIVE BANK LTD., RUDRAPUR",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "ZILA SAHKARI BANK LTD., GARHWAL (KOTDWAR)",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "ZILA SAHKARI BANK LTD., HARIDWAR",
-    "state": "Bihar",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE AMBALA CENTRAL CO-OPERATIVE BANK LTD., AMBALA",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BHIWANI CENTRAL CO-OPERATIVE BANK LTD., BHIWANI",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE FARIDABAD CENTRAL CO-OPERATIVE BANK LTD., FARIDABAD",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE FATEHABAD CENTRAL CO-OPERATIVE BANK LTD., FATEHABAD",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE GURGAON CENTRAL CO-OPERATIVE BANK LTD., GURGAON",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE HISSAR CENTRAL CO-OPERATIVE BANK LTD., HISSAR",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JHAJJAR CENTRAL CO-OPERATIVE BANK LTD., JHAJJAR",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JIND CENTRAL CO-OPERATIVE BANK LTD., JIND",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KAITHAL CENTRAL CO-OPERATIVE BANK LTD., KAITHAL",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KARNAL CENTRAL CO-OPERATIVE BANK LTD., KARNAL",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KURUKSHETRA CENTRAL CO-OPERATIVE BANK LTD., KURUKSHETRA",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MAHENDRAGARH CENTRAL CO-OPERATIVE BANK LTD., MAHENDRAGARH",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE PANCHAKULA  CENTAL CO-OPERATIVE BANK LTD., PANCHAKULA",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE PANIPAT  CENTRAL CO-OPERATIVE BANK LTD., PANIPAT",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE REWARI CENTRAL CO-OPERATIVE BANK LTD., REWARI",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE ROHTAK CENTRAL CO-OPERATIVE BANK LTD., ROHTAK",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SIRSA CENTRAL CO-OPERATIVE BANK LTD., SIRSA",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SONEPAT CENTRAL CO-OPERATIVE BANK LTD., SONEPAT",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE YAMUNANAGAR CENTRAL CO-OPERATIVE  BANK LTD., YAMUNANAGAR",
-    "state": "Chhattisgarh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "AJMER CENTRAL CO-OPERATIVE BANK LTD., AJMER",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BARAN KENDRIYA SAHAKARI BANK LTD., BARAN",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "CHITTORGARH KENDRIYA SAHAKARI BANK LTD., CHITTORGARH",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DAUSA KENDRIYA SAHAKARI BANK LTD., DAUSA",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "HANUMANGARH KENDRIYA SAHAKARI BANK LTD., HANUMANGARH",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD., JHUNJHUNU",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "SAWAI MADHOPUR KENDRIYA SAHAKARI BANK LTD., SAWAI",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE  CENTRAL CO-OPERATIVE BANK LTD, BHILWARA",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE ALWAR CENTRAL CO-OPERATIVE BANK LTD., ALWAR",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BANSWARA CENTRAL CO-OPERATIVE BANK LTD., BANSWARA",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BARMER CENTRAL CO-OPERATIVE BANK LTD., BARMER",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BHARATPUR CENTRAL CO-OPERATIVE BANK LTD., BHARATPUR",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BUNDI DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BUNDI",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE CENTRAL CO-OPERATIVE  BANK LTD., BIKANER",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE CENTRAL CO-OPERATIVE BANK LTD.,TONK",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE CHURU CENTRAL CO-OPERATIVE BANK LTD., CHURU",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE DUNGARPUR CENTRAL CO-OPERATIVE BANK LTD., DUNGARPUR",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE GANGANAGAR KENDRIYA SAHAKARI BANK LTD., GANGANAGAR",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JAIPUR CENTRAL CO-OPERATIVE BANK LTD., JAIPUR",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JAISALMER CENTRAL CO-OPERATIVE BANK LTD., JAISALMER",
-    "state": "Gujarat",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "MAINPURI JILLA SAHKARI BANK LTD., MAINPURI",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "MATHURA JILLA SAHKARI BANK LTD., MATHURA",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "MUZAFFARNAGAR DISTRICT CO-OPERATIVE BANK LTD., MUZAFFARNAGAR",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "PILIBHIT JILLA SAHKARI BANK LTD., PILIBHIT",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "RAMPUR JILLA SAHKARI BANK LTD., RAMPUR",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "SULTANPUR JILLA SAHKARI BANK LTD., SULTANPUR",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "AGRA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., AGRA",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "ALIGARH JILA SAHKARI BANK LTD., ALIGARH",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "ALLAHABAD DISTRICT CO-OPERATIVE BANK LTD., ALLAHABAD",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BAHRICH DISTRICT CO-OPERATIVE BANK LTD., BAHRICH",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BANDA DISTRICT CO-OPERATIVE BANK LTD., BANDA",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BIJNOR JILLA SAHKARI BANK LTD., BIJNOR",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BUDAUN JILLA SAHKARI BANK LTD., BUDAUN",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DEORIA KASIA CO-OPERATIVE BANK LTD., DEORIA",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DISTRICT CO-OPERATIVE BANK LTD., SAHARANPUR",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DISTRICT CO-OPERATIVE BANK LTD., VARANASI",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "ETAH DISTRICT CO-OPERATIVE BANK LTD., ETAH",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "ETAWAH JILLA SAHKARI BANK LTD., ETAWAH",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "FAIZABAD JILLA SAHKARI BANK LTD., FAIZABAD",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "FARRUKHABAD DISTRICT CO-OPERATIVE  BANK LTD., FARRUKHABAD",
-    "state": "Haryana",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DISTRICT CENTRAL CO-OPERATIVE BANK LTD., ARA",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DISTRICT CENTRAL COOPERATIVE BANK LIMITED, SUPAUL",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SASARAM-BHABUA CENTRAL CO-OPERATIVE BANK LTD., SASARAM",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE AURANGABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD., AURANGABAD",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BEGUSARAI  CENTRAL CO-OPERATIVE BANK LTD., BEGUSARAI",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BHAGALPUR  CENTRAL CO-OPERATIVE BANK LTD., BHAGALPUR",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE GOPALGANJ CENTRAL CO-OPERATIVE BANK LTD., GOPALGANJ",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KATIHAR DISTRICT CENTRAL CO-OPERATIVE BANK LTD., KATIHAR",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KHAGARIA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., KHAGARIA",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "SAMASTIPUR DISTRICT CENTRAL CO.OPERATIVE BANK LTD, SAMSTIPUR",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MAGADH CENTRAL CO-OPERATIVE BANK LTD., GAYA",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MONGHYR-JAMUI CENTRAL CO-OPERATIVE BANK LTD., MUNGER",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MOTIHARI CENTRAL CO-OPERATIVE BANK LTD., MOTIHARI",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MUZAFFARPUR CENTRAL CO-OPERATIVE  BANK LTD., MUZAFFARPUR",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE NALANDA CENTRAL CO-OPERATIVE BANK LTD., NALANDA",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE NATIONAL CENTRAL CO-OPERATIVE BANK LTD., BETTIAH",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE NAWADAH CENTRAL CO-OPERATIVE BANK LTD., NAWADAH",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE PATALIPUTRA CENTRAL CO-OPERATIVE BANK LTD., PATNA",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE PURNEA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., PURNEA",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE ROHIKA CENTRAL CO-OPERATIVE BANK LTD., MADHUBANI",
-    "state": "Himachal Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BANKURA DIST CENTRAL CO-OPERATIVE BANK LTD., BANKURA",
-    "state": "Nagaland",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DARJEELING DISTRICT CENTRAL CO-OPERATIVE BANK LTD., DARJEELING",
-    "state": "Nagaland",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "HOOGHLY DISTRICT CENTRAL CO-OPERATIVE BANK LTD., HOOGHLY",
-    "state": "Nagaland",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "MURSHIDABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD., MURSHIDABAD",
-    "state": "Nagaland",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "NADIA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., NADIA",
-    "state": "Nagaland",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE DHANBAD CENTRAL CO-OPERATIVE BANK LTD., DHANBAD",
-    "state": "Odisha",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "CUTTACK CENTRAL CO-OPERATIVE BANK LTD., CUTTACK",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "KEONJHAR CENTRAL CO-OPERATIVE BANK LTD., KEONJHAR",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "NAYAGARH DISTRICT CENTRAL CO-OPERATIVE BANK LTD., NAYAGARH",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE ANGUL UNITED  CENTRAL CO-OPERATIVE BANK LTD., ANGUL",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE ASKA CENTRAL CO-OPERATIVE BANK LTD., ASKA",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BALASORE BHADRAK CENTRAL CO-OPERATIVE BANK LTD., BALASORE",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BANKI CENTRAL CO-OPERATIVE BANK LTD., BANKI",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BHAWANIPATNA CENTRAL CO-OPERATIVE BANK LTD., BHAWANIPATNA",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BOLANGIR DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BOLANGIR",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BOUDH CO-OPERATIVE CENTRAL BANK LTD., BOUDH",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KHORDHA CENTRAL CO-OPERATIVE BANK LTD., KHORDHA",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KORAPUT CENTRAL CO-OPERATIVE BANK LTD., KORAPUT",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE MAYURBHANJ DISTRICT CENTRAL CO-OPERATIVE BANK LTD., MAYURBHANJ",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SAMBALPUR DIST.CO-OPERATIVE CENTRAL BANK LTD., SAMBALPUR",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SUNDARGARH DISTRICT CENTRAL CO-OPERATIVE BANK LTD., SUNDARGARH",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE UNITED PURI-NIMAPARA CENTRAL COOPERATIVE BANK LTD., PURI",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "Berhampur Cooperative Central Bank LTD.",
-    "state": "Punjab",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BILASPUR",
-    "state": "Rajasthan",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DISTRICT CENTRAL CO-OPERATIVE BANK LTD., DURG",
-    "state": "Rajasthan",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILA SAHAKARI KENDRIYA BANK MARYADIT, AMBIKAPUR",
-    "state": "Rajasthan",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILA SAHAKARI KENDRIYA BANK MARYADIT, JAGDALPUR",
-    "state": "Rajasthan",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILA SAHAKARI KENDRIYA BANK MARYADIT, RAIPUR",
-    "state": "Rajasthan",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "RAJNANDGAON KENDRIYA SAHAKARI BANK MARYADIT, RAJNANDGAON",
-    "state": "Rajasthan",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, BALAGHAT",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, BETUL",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, BHIND",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, CHATTARPUR",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, CHHINDWARA",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DAMOH",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DATIA",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DEWAS",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DHAR",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, GUNA",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, GWALIOR",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, HOSHANGABAD",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, JABALPUR",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, JHABUA",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, KHANDWA",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, KHARGONE",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, MANDLA",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, MANDSAUR",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, MORENA",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, NARSINGHPUR",
-    "state": "Sikkim",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BANASKANTHA DISTRICT CENTRAL CO-OPERATIVE BANK",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BHAVNAGAR DISTRICT CO-OPERATIVE BANK LTD",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "MEHSANA DISTRICT CENTRAL CO-OPERATIVE BANK",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "PANCHMAHALS DISTRICT CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "RAJKOT DISTRICT CO-OPERATIVE  BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "SABARKANTHA DISTRICT CENTRAL CO-OPERATIVE BANK",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "SURAT DISTRICT CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE AHMEDABAD DISTRICT CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE AMRELI JILL MADHYASTHA SAHAKARI BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BARODA CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE BHARUCH DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JAMNAGAR DISTRICT CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE JUNAGADH JILL SAHAKARI BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KACHCHH DISTRICT CENTRAL CO-OPERATIVE BANK",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KAIRA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE KODINAR TALUKA CO-OPERATIVE BANKING UNION LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "THE SURENDRANAGAR DISTRICT CO-OPERATIVE BANK LTD.",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "VALSAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD",
-    "state": "Tamil Nadu",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "AKOLA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "AMRAWATI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "AURANGABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BEED DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BHANDARA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "BULDHANA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "CHANDRAPUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "DHULE & NANDURBAR DISTRICT CENTRAL CO-OPERATIVEBANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "GADCHIROLI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "JALNA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "KOLHAPUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "LATUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "NAGPUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "NASIK DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "OSMANABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "PARBHANI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "PUNE DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "RAIGAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "RATNAGIRI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
-    "name": "SANGLI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "Uttar Pradesh",
-    "category": "District Central Cooperative BANKS"
-  },
-  {
     "name": "THE ANANTPUR DISTRICT CO OPERATIVE CENTRAL  BANK LTD., ANANTPUR",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE CHITTOOR DISTRICT CO-OPERATIVE CENTRAL BANK LTD., CHITTOOR",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., ELURU",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DISTRICT COOPERATIVE CENTRAL BANK LTD., KAKINADA",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DISTRICT COOPERATIVE CENTRAL BANK LTD., KURNOOL",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., SRIKAKULAM",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., VISAKHAPATNAM",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., VIZIANAGARAM",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE GUNTUR DISTRICT CO-OPERATIVE CENTRAL BANK LTD., GUNTUR",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE KADAPA DISTRICT CO OPERATIVE CENTRAL  BANK LTD., KADAPA",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE KRISHNA DISTRICT CO-OPERATIVE CENTRAL BANK LTD., KRISHNA",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE NELLORE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., NELLORE",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE PRAKASAM DISTRICT CO-OPERATIVE CENTRAL BANK LTD., PRAKASAM",
-    "state": "Uttarakhand",
+    "state": "ANDHRA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DISTRICT CENTRAL CO-OPERATIVE BANK LTD., ARA",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DISTRICT CENTRAL COOPERATIVE BANK LIMITED, SUPAUL",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SASARAM-BHABUA CENTRAL CO-OPERATIVE BANK LTD., SASARAM",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE AURANGABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD., AURANGABAD",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BEGUSARAI  CENTRAL CO-OPERATIVE BANK LTD., BEGUSARAI",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BHAGALPUR  CENTRAL CO-OPERATIVE BANK LTD., BHAGALPUR",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE GOPALGANJ CENTRAL CO-OPERATIVE BANK LTD., GOPALGANJ",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KATIHAR DISTRICT CENTRAL CO-OPERATIVE BANK LTD., KATIHAR",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KHAGARIA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., KHAGARIA",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "SAMASTIPUR DISTRICT CENTRAL CO.OPERATIVE BANK LTD, SAMSTIPUR",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MAGADH CENTRAL CO-OPERATIVE BANK LTD., GAYA",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MONGHYR-JAMUI CENTRAL CO-OPERATIVE BANK LTD., MUNGER",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MOTIHARI CENTRAL CO-OPERATIVE BANK LTD., MOTIHARI",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MUZAFFARPUR CENTRAL CO-OPERATIVE  BANK LTD., MUZAFFARPUR",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE NALANDA CENTRAL CO-OPERATIVE BANK LTD., NALANDA",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE NATIONAL CENTRAL CO-OPERATIVE BANK LTD., BETTIAH",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE NAWADAH CENTRAL CO-OPERATIVE BANK LTD., NAWADAH",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE PATALIPUTRA CENTRAL CO-OPERATIVE BANK LTD., PATNA",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE PURNEA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., PURNEA",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ROHIKA CENTRAL CO-OPERATIVE BANK LTD., MADHUBANI",
+    "state": "BIHAR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BILASPUR",
+    "state": "CHHATTISGARH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DISTRICT CENTRAL CO-OPERATIVE BANK LTD., DURG",
+    "state": "CHHATTISGARH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILA SAHAKARI KENDRIYA BANK MARYADIT, AMBIKAPUR",
+    "state": "CHHATTISGARH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILA SAHAKARI KENDRIYA BANK MARYADIT, JAGDALPUR",
+    "state": "CHHATTISGARH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILA SAHAKARI KENDRIYA BANK MARYADIT, RAIPUR",
+    "state": "CHHATTISGARH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "RAJNANDGAON KENDRIYA SAHAKARI BANK MARYADIT, RAJNANDGAON",
+    "state": "CHHATTISGARH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BANASKANTHA DISTRICT CENTRAL CO-OPERATIVE BANK",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BHAVNAGAR DISTRICT CO-OPERATIVE BANK LTD",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "MEHSANA DISTRICT CENTRAL CO-OPERATIVE BANK",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "PANCHMAHALS DISTRICT CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "RAJKOT DISTRICT CO-OPERATIVE  BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "SABARKANTHA DISTRICT CENTRAL CO-OPERATIVE BANK",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "SURAT DISTRICT CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE AHMEDABAD DISTRICT CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE AMRELI JILL MADHYASTHA SAHAKARI BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BARODA CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BHARUCH DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JAMNAGAR DISTRICT CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JUNAGADH JILL SAHAKARI BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KACHCHH DISTRICT CENTRAL CO-OPERATIVE BANK",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KAIRA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KODINAR TALUKA CO-OPERATIVE BANKING UNION LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SURENDRANAGAR DISTRICT CO-OPERATIVE BANK LTD.",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "VALSAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD",
+    "state": "GUJARAT",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE AMBALA CENTRAL CO-OPERATIVE BANK LTD., AMBALA",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BHIWANI CENTRAL CO-OPERATIVE BANK LTD., BHIWANI",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE FARIDABAD CENTRAL CO-OPERATIVE BANK LTD., FARIDABAD",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE FATEHABAD CENTRAL CO-OPERATIVE BANK LTD., FATEHABAD",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE GURGAON CENTRAL CO-OPERATIVE BANK LTD., GURGAON",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE HISSAR CENTRAL CO-OPERATIVE BANK LTD., HISSAR",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JHAJJAR CENTRAL CO-OPERATIVE BANK LTD., JHAJJAR",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JIND CENTRAL CO-OPERATIVE BANK LTD., JIND",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KAITHAL CENTRAL CO-OPERATIVE BANK LTD., KAITHAL",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KARNAL CENTRAL CO-OPERATIVE BANK LTD., KARNAL",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KURUKSHETRA CENTRAL CO-OPERATIVE BANK LTD., KURUKSHETRA",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MAHENDRAGARH CENTRAL CO-OPERATIVE BANK LTD., MAHENDRAGARH",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE PANCHAKULA  CENTAL CO-OPERATIVE BANK LTD., PANCHAKULA",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE PANIPAT  CENTRAL CO-OPERATIVE BANK LTD., PANIPAT",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE REWARI CENTRAL CO-OPERATIVE BANK LTD., REWARI",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ROHTAK CENTRAL CO-OPERATIVE BANK LTD., ROHTAK",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SIRSA CENTRAL CO-OPERATIVE BANK LTD., SIRSA",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SONEPAT CENTRAL CO-OPERATIVE BANK LTD., SONEPAT",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE YAMUNANAGAR CENTRAL CO-OPERATIVE  BANK LTD., YAMUNANAGAR",
+    "state": "HARYANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JOGINDRA CENTRAL CO-OPERATIVE BANK LTD., SOLAN",
+    "state": "HIMACHAL PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KANGRA CENTRAL CO-OPERATIVE BANK LTD., KANGRA",
+    "state": "HIMACHAL PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BARAMULLA CENTRAL CO-OPERATIVE BANK LTD., BARAMULLA",
+    "state": "JAMMU AND KASHMIR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ANANTNAG CENTRAL CO-OPERATIVE BANK LTD., ANANTNAG",
+    "state": "JAMMU AND KASHMIR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JAMMU CENTRAL CO-OPERATIVE BANK LTD., JAMMU",
+    "state": "JAMMU AND KASHMIR",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE DHANBAD CENTRAL CO-OPERATIVE BANK LTD., DHANBAD",
+    "state": "JHARKHAND",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE MYSORE AND CHAMARAJANAGAR DISTRICT COOPERATIVE CENTRAL BANK",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "SOUTH CANARA DISTRICT CENTRAL COOPERATIVE BANK LTD",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "BAGALKOT DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BAGALKOT",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "MANDYA DISTRICT  CO-OPERATIVE  CENTRAL BANK LTD., MANDYA",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE BELAGAVI DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BELAGAVI",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE BELLARY DISTRICT  CO-OPERATIVE CENTRAL BANK LTD., BELLARY",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE BENGALURU DISTRICT CENTRAL CO-OPERATIVE BANK LTD",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE CHIKMAGALUR DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE CHITRADURGA DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DAWANGERE DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., BIDAR",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE KALABURAGI AND YADGIR DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE HASSAN DISTRICT  CO-OPERATIVE CENTRAL BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE KANARA DISTRICT CENTRAL CO- OPERATIVE BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE KARNATAKA CENTRAL CO-OPERATIVE BANK LTD.,(DHARWAD)",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE KODAGU DISTRICT  CO-OPERATIVE CENTRAL BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE KOLAR AND CHICKABALLAPUR DISTRICT CO OPERATIVE  CENTRAL BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE RAICHUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE SHIMOGA DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
     "category": "District Central Cooperative BANKS"
   },
   {
     "name": "THE TUMKUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
-    "state": "West Bengal",
+    "state": "KARNATAKA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, BALAGHAT",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, BETUL",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, BHIND",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, CHATTARPUR",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, CHHINDWARA",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DAMOH",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DATIA",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DEWAS",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, DHAR",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, GUNA",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, GWALIOR",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, HOSHANGABAD",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, JABALPUR",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, JHABUA",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, KHANDWA",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, KHARGONE",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, MANDLA",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, MANDSAUR",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, MORENA",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JILLA SAHAKARI KENDRIYA BANK MARYADIT, NARSINGHPUR",
+    "state": "MADHYA PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "AKOLA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "AMRAWATI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "AURANGABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BEED DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BHANDARA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BULDHANA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "CHANDRAPUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DHULE & NANDURBAR DISTRICT CENTRAL CO-OPERATIVEBANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "GADCHIROLI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JALNA DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "KOLHAPUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "LATUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "NAGPUR DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "NASIK DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "OSMANABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "PARBHANI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "PUNE DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "RAIGAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "RATNAGIRI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "SANGLI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "MAHARASHTRA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "CUTTACK CENTRAL CO-OPERATIVE BANK LTD., CUTTACK",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "KEONJHAR CENTRAL CO-OPERATIVE BANK LTD., KEONJHAR",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "NAYAGARH DISTRICT CENTRAL CO-OPERATIVE BANK LTD., NAYAGARH",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ANGUL UNITED  CENTRAL CO-OPERATIVE BANK LTD., ANGUL",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ASKA CENTRAL CO-OPERATIVE BANK LTD., ASKA",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BALASORE BHADRAK CENTRAL CO-OPERATIVE BANK LTD., BALASORE",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BANKI CENTRAL CO-OPERATIVE BANK LTD., BANKI",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BHAWANIPATNA CENTRAL CO-OPERATIVE BANK LTD., BHAWANIPATNA",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BOLANGIR DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BOLANGIR",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BOUDH CO-OPERATIVE CENTRAL BANK LTD., BOUDH",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KHORDHA CENTRAL CO-OPERATIVE BANK LTD., KHORDHA",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KORAPUT CENTRAL CO-OPERATIVE BANK LTD., KORAPUT",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MAYURBHANJ DISTRICT CENTRAL CO-OPERATIVE BANK LTD., MAYURBHANJ",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SAMBALPUR DIST.CO-OPERATIVE CENTRAL BANK LTD., SAMBALPUR",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SUNDARGARH DISTRICT CENTRAL CO-OPERATIVE BANK LTD., SUNDARGARH",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE UNITED PURI-NIMAPARA CENTRAL COOPERATIVE BANK LTD., PURI",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "Berhampur Cooperative Central Bank LTD.",
+    "state": "ODISHA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE AMRITSAR CENTRAL CO-OPERATIVE BANK LTD., AMRITSAR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BHATINDA CENTRAL CO-OPERATIVE BANK LTD., BHATINDA",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE FARIDKOT CENTRAL CO-OPERATIVE BANK LTD., FARIDKOT",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE FATEHGARH SAHIB CENTRAL CO-OPERATIVE BANK LTD., SIRHIND",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE FAZILKA CENTRAL CO-OPERATIVE BANK LTD., FAZILKA",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE FEROZEPUR CENTRAL CO-OPERATIVE BANK LTD., FEROZEPUR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE GURDASPUR CENTRAL CO-OPERATIVE BANK LTD., GURDASPUR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE HOSHIARPUR CENTRAL CO-OPERATIVE BANK LTD., HOSHIARPUR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JALANDHAR CENTRAL CO-OPERATIVE BANK LTD., JALANDHAR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KAPURTHALA CENTRAL CO-OPERATIVE BANK LTD., KAPURTHALA",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE LUDHIANA CENTRAL CO-OPERATIVE BANK LTD., LUDHIANA",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MANSA CENTRAL CO-OPERATIVE BANK LTD., MANSA",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MOGA CENTRAL CO-OPERATIVE BANK LTD., MOGA",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MUKTSAR CENTRAL CO-OPERATIVE BANK LTD., MUKTSAR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE NAWANSHAHR CENTRAL CO-OPERATIVE BANK LTD., NAWANSHAHR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE PATIALA CENTRAL CO-OPERATIVE BANK LTD., PATIALA",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ROPAR CENTRAL CO-OPERATIVE BANK LTD., ROPAR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SANGRUR CENTRAL CO-OPERATIVE BANK LTD., SANGRUR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SAS NAGAR CENTRAL CO-OP. BANK LTD., SAS NAGAR",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE TARAN TARAN CENTRAL CO-OPERATIVE BANK LTD., TARAN TARAN",
+    "state": "PUNJAB",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "AJMER CENTRAL CO-OPERATIVE BANK LTD., AJMER",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BARAN KENDRIYA SAHAKARI BANK LTD., BARAN",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "CHITTORGARH KENDRIYA SAHAKARI BANK LTD., CHITTORGARH",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DAUSA KENDRIYA SAHAKARI BANK LTD., DAUSA",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "HANUMANGARH KENDRIYA SAHAKARI BANK LTD., HANUMANGARH",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "JHUNJHUNU KENDRIYA SAHAKARI BANK LTD., JHUNJHUNU",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "SAWAI MADHOPUR KENDRIYA SAHAKARI BANK LTD., SAWAI",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE  CENTRAL CO-OPERATIVE BANK LTD, BHILWARA",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ALWAR CENTRAL CO-OPERATIVE BANK LTD., ALWAR",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BANSWARA CENTRAL CO-OPERATIVE BANK LTD., BANSWARA",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BARMER CENTRAL CO-OPERATIVE BANK LTD., BARMER",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BHARATPUR CENTRAL CO-OPERATIVE BANK LTD., BHARATPUR",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE BUNDI DISTRICT CENTRAL CO-OPERATIVE BANK LTD., BUNDI",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE CENTRAL CO-OPERATIVE  BANK LTD., BIKANER",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE CENTRAL CO-OPERATIVE BANK LTD.,TONK",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE CHURU CENTRAL CO-OPERATIVE BANK LTD., CHURU",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE DUNGARPUR CENTRAL CO-OPERATIVE BANK LTD., DUNGARPUR",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE GANGANAGAR KENDRIYA SAHAKARI BANK LTD., GANGANAGAR",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JAIPUR CENTRAL CO-OPERATIVE BANK LTD., JAIPUR",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE JAISALMER CENTRAL CO-OPERATIVE BANK LTD., JAISALMER",
+    "state": "RAJASTHAN",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "CHENNAI CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DINDIGUL CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE COIMBATORE DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE CUDDALORE DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE DHARMAPURI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ERODE DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KANCHEEPURAM  CENTRAL CO-OP.BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KANYAKUMARI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KUMBAKONAM CENTRAL CO-OP BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MADURAI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE NILGIRIS DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE PUDUKOTTAI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE RAMANATHAPURAM DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SALEM DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE SIVGANGAI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE THANJAVUR CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE TIRUCHIRAPALLI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE TIRUNELVELI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE TIRUVANNAMALAI DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE VELLORE DISTRICT CENTRAL COOPERATIVE BANK LTD.",
+    "state": "TAMIL NADU",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE ADILABAD DISTRICT CO OPERATIVE CENTRAL  BANK LTD.",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., KHAMMAM",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., MEDAK",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE DISTRICT CO-OPERATIVE CENTRAL BANK LTD., WARANGAL",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE HYDERABAD DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE KARIMNAGAR DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE MAHBUBNAGAR DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE NALGONDA DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE NIZAMABAD DISTRICT CO-OPERATIVE CENTRAL BANK LTD.",
+    "state": "TELANGANA",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "MAINPURI JILLA SAHKARI BANK LTD., MAINPURI",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "MATHURA JILLA SAHKARI BANK LTD., MATHURA",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "MUZAFFARNAGAR DISTRICT CO-OPERATIVE BANK LTD., MUZAFFARNAGAR",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "PILIBHIT JILLA SAHKARI BANK LTD., PILIBHIT",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "RAMPUR JILLA SAHKARI BANK LTD., RAMPUR",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "SULTANPUR JILLA SAHKARI BANK LTD., SULTANPUR",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "AGRA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., AGRA",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "ALIGARH JILA SAHKARI BANK LTD., ALIGARH",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "ALLAHABAD DISTRICT CO-OPERATIVE BANK LTD., ALLAHABAD",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BAHRICH DISTRICT CO-OPERATIVE BANK LTD., BAHRICH",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BANDA DISTRICT CO-OPERATIVE BANK LTD., BANDA",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BIJNOR JILLA SAHKARI BANK LTD., BIJNOR",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BUDAUN JILLA SAHKARI BANK LTD., BUDAUN",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DEORIA KASIA CO-OPERATIVE BANK LTD., DEORIA",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DISTRICT CO-OPERATIVE BANK LTD., SAHARANPUR",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DISTRICT CO-OPERATIVE BANK LTD., VARANASI",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "ETAH DISTRICT CO-OPERATIVE BANK LTD., ETAH",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "ETAWAH JILLA SAHKARI BANK LTD., ETAWAH",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "FAIZABAD JILLA SAHKARI BANK LTD., FAIZABAD",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "FARRUKHABAD DISTRICT CO-OPERATIVE  BANK LTD., FARRUKHABAD",
+    "state": "UTTAR PRADESH",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "ALMORA ZILLA SAHAKARI BANK LTD., ALMORA",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "CHAMOLI ZILLA SAHAKARI BANK LTD., CHAMOLI",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DISTRICT COOPERATIVE BANK LTD., DEHRADUN",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "NAINITAL DISTRICT CO-OPERATIVE BANK LTD., HALDWANI",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "PITHORAGARH ZILA SAHAKARI BANK LTD., PITHORAGARH",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "TEHRI GARHWAL ZILA SAHKARI BANK LTD., TEHRI",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "THE UTTARKASHI ZILA SAHKARI BANK LTD., UTTARKASHI",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "UDHAMSINGHNAGAR DISTRICT COOPERATIVE BANK LTD., RUDRAPUR",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "ZILA SAHKARI BANK LTD., GARHWAL (KOTDWAR)",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "ZILA SAHKARI BANK LTD., HARIDWAR",
+    "state": "UTTARAKHAND",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "BANKURA DIST CENTRAL CO-OPERATIVE BANK LTD., BANKURA",
+    "state": "WEST BENGAL",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "DARJEELING DISTRICT CENTRAL CO-OPERATIVE BANK LTD., DARJEELING",
+    "state": "WEST BENGAL",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "HOOGHLY DISTRICT CENTRAL CO-OPERATIVE BANK LTD., HOOGHLY",
+    "state": "WEST BENGAL",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "MURSHIDABAD DISTRICT CENTRAL CO-OPERATIVE BANK LTD., MURSHIDABAD",
+    "state": "WEST BENGAL",
+    "category": "District Central Cooperative BANKS"
+  },
+  {
+    "name": "NADIA DISTRICT CENTRAL CO-OPERATIVE BANK LTD., NADIA",
+    "state": "WEST BENGAL",
     "category": "District Central Cooperative BANKS"
   }
 ]
